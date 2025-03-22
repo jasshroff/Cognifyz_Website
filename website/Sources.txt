@@ -1,0 +1,43 @@
+*************************All sources used to develop this website are:-************************* 
+
+*************************1. Bootstrap 5.3.0-alpha1*************************
+   - CSS: /static/css/bootstrap.min.css
+   - JavaScript: https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js
+
+*************************2. Font Awesome 6.4.0*************************
+   - CSS: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css
+
+*************************3. Google Fonts*************************
+   - Poppins Font Family: https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap
+
+*************************4. Leaflet.js (OpenStreetMap)*************************
+   - CSS: https://unpkg.com/leaflet@1.9.4/dist/leaflet.css
+   - JavaScript: https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
+
+*************************5. Map Tile Providers*************************
+   - OpenStreetMap: https://www.openstreetmap.org/
+   - CARTO Dark Theme: https://carto.com/
+
+*************************6. Custom Assets*************************
+   - CSS: /static/css/styles.css
+   - JavaScript: /static/js/script.js
+   - Logo Images: /static/png/logo.png, /static/png/logoLi.png
+   - Favicon: /static/favicon/
+
+*************************7. Icons*************************
+   - Font Awesome 6.4.0 Icons: https://fontawesome.com/
+     - Solid Icons (fas): https://fontawesome.com/v6/search?m=free&s=solid
+       * fa-moon, fa-sun, fa-laptop-code, fa-building, fa-code, fa-check-circle, 
+         fa-chart-line, fa-bullhorn, fa-laptop, fa-user-tie, fa-certificate, 
+         fa-users, fa-briefcase, fa-coins, fa-user-circle, fa-map-marker-alt, 
+         fa-phone, fa-envelope
+     - Brand Icons (fab): https://fontawesome.com/v6/search?m=free&s=brands
+       * fa-facebook-f, fa-twitter, fa-linkedin-in, fa-instagram
+   
+   - Bootstrap Icons (via Bootstrap 5.3): https://icons.getbootstrap.com/
+     * navbar-toggler-icon, carousel-control-prev-icon, carousel-control-next-icon
+     
+   - Custom Map Marker Icon: Created using Leaflet.js divIcon
+     * marker-pulse-icon (custom CSS animation)
+
+
